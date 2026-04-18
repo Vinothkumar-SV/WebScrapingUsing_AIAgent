@@ -1,0 +1,28 @@
+Step --1
+git clone https://github.com/browser-use/web-ui.git
+Step --2
+cd web-ui
+
+Step3
+uv venv --python 3.11
+
+
+Step 4
+.venv\Scripts\activate
+
+Step 5
+uv pip install -r requirements.txt
+
+Step6
+playwright install --with-deps
+
+Step 7
+copy .env.example .env
+
+Step 8
+python webui.py --ip 127.0.0.1 --port 7788
+
+
+
+Step 9
+Open in URL in Separate browser :http://127.0.0.1:7788
