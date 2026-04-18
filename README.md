@@ -4,11 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=260&section=header&text=WebScrapingUsing_AIAgent&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Powered%20Data%20Extraction%20Platform&descAlignY=62&descSize=18" width="100%"/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=🤖+AI+Powered+Web+Scraping;⚡+Smart+Automation+Platform;📊+Modern+Dashboard+UI;🚀+Built+to+Impress+HR+%26+CEO;💎+Created+by+Vinothkumar" />
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Italic&weight=500&pause=1000&color=31D2F7&random=true&width=435&lines=%F0%9F%A4%96AI+Powered+Web+Scraping;%E2%9A%A1Smart+Automation+Platform;%F0%9F%93%8AModern+Dashboard+UI;%F0%9F%9A%80Built+to+Impress+HR+CEO;%F0%9F%92%8ECreated+by+Vinothkumar)](https://git.io/typing-svg)
 
 
 
