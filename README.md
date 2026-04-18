@@ -4,7 +4,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=260&section=header&text=WebScrapingUsing_AIAgent&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Powered%20Data%20Extraction%20Platform&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=980&height=55&lines=🤖+AI+Driven+Web+Scraping+Engine;⚡+Turn+Websites+Into+Business+Insights;📊+Premium+Dashboard+Experience;🚀+Built+to+Impress+HR+%26+CEO;💎+Modern+Product+Ready+Architecture" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=🤖+AI+Powered+Web+Scraping;⚡+Smart+Automation+Platform;📊+Modern+Dashboard+UI;🚀+Built+to+Impress+HR+%26+CEO;💎+Created+by+Vinothkumar" />
+
+</div>
+
+
 
 
 <br>
